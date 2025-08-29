@@ -1,0 +1,16 @@
+{
+  "domain": "ubibot",
+  "name": "Ubibot",
+  "version": "2.6.0",
+  "config_flow": true,
+  "documentation": "https://www.ubibot.com/",
+  "requirements": [
+    "aiohttp"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@your_github_username"
+  ],
+  "iot_class": "cloud_polling",
+  "integration_type": "hub"
+}
